@@ -1,0 +1,3 @@
+checked exception means you must have to use use catch and try 
+
+and for critical methods
